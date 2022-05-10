@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/voice_recognition/BuildConfig.java
- com.example.voice_recognition.BuildConfig
